@@ -1,0 +1,53 @@
+fieldset{
+    background-color: #2bc8c8;
+    margin: 0;
+    border-radius: 30px;
+    padding: 25px;
+  }
+h1{
+    font-family: 'Monaco';
+}
+h2{
+   
+   
+    font-family: 'Monaco';
+}
+input {
+    font-family: 'verdana';
+   
+}
+body{
+  background-color:  #20979b;
+}
+#UserName{
+ border-radius: 8px;
+ padding: 7px;
+ border: 1px solid black;
+}
+#Sehir{
+    border-radius: 5px;
+    padding: 2px;
+}
+#Muzik{
+    display: inline-block;
+    position: absolute;
+    right: 80px;
+    bottom: 200px;
+}
+#MSLM{
+    display: inline-block;
+    position: absolute;
+    top: 260px;
+    right: 110px;
+    margin: 0;
+    width: 250px;
+    height: 220px;
+}
+#anılar{
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+    top: 75px;
+    background-color: #29a0bd;
+}
+ 
